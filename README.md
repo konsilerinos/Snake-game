@@ -2,4 +2,4 @@
 
 Слова излишни.
 
-![изображение](https://user-images.githubusercontent.com/78896451/111910791-ddae6c80-8a73-11eb-95a0-26c34f7ec1ca.png)
+![123](https://user-images.githubusercontent.com/78896451/111910815-f9197780-8a73-11eb-820e-1b104cc88ccd.jpg)
