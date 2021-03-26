@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 #include <conio.h>
 #include <thread>
 #include <chrono>
@@ -53,7 +54,7 @@ int main() {
 		Logic();
 		Display(gameOverStatus);
 
-		std::this_thread::sleep_for(std::chrono::milliseconds(50));
+		std::this_thread::sleep_for(std::chrono::milliseconds(50 - score / 10));
 	}
 
 	return 0;
@@ -114,6 +115,8 @@ void Display(bool gameOver) {
 
 	system("cls");
 
+	std::cout << "//======| Python abuse |======//" << std::endl;
+	
 	PrintBoxTop();
 
 	PrintBoxMiddle();
